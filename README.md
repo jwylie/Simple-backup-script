@@ -1,6 +1,8 @@
 # Simple backup script
 Designed to be ran in the command line by running the script for example:
-  py backup.py
+```  command line
+py backup.py
+```
 Path names need to be entered into script variables so that this script will run.
 
 Running this script will zip specified directories and place the zipped file into a specific directory designed to hold backups
